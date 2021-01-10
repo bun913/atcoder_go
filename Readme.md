@@ -1,5 +1,5 @@
 # 概要
-ローカル環境を汚さないように、`Docker` 及び `Docker-compose` でGoプロジェクトを開始するためのテンプレートです。
+ローカル環境を汚さないように、`Docker` 及び `Docker-compose` でAtcoder参加用のデフォルトセットを作成しました。
 
 `VsCode` の `devcontainer` を利用して、自動フォーマットやデバックのメリットを受けることができます
 
